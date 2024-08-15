@@ -1,0 +1,955 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ژانوت | اعلان های پیشرفته\n"
+"POT-Creation-Date: 2020-03-12 16:09+0330\n"
+"PO-Revision-Date: 2020-03-12 16:12+0330\n"
+"Last-Translator: \n"
+"Language-Team: Alireza Dehkar <hi@zaino.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: zhanot.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-functions.php:16
+msgid "Use Zhanot"
+msgstr "استفاده از ژانوت"
+
+#: admin/admin-functions.php:24
+msgid "Notification Setting"
+msgstr "تنظیمات اعلان"
+
+#: admin/admin-functions.php:34 admin/admin-functions.php:133
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: admin/admin-functions.php:37
+msgid "Show in Pages and Posts"
+msgstr "نمایش در مطالب و  برگه ها"
+
+#: admin/admin-functions.php:39
+msgid "PHP code"
+msgstr "کد PHP"
+
+#: admin/admin-functions.php:46
+msgid "Display anywhere on the website"
+msgstr "نمایش در هر جای وبسایت"
+
+#: admin/admin-functions.php:91 admin/admin-functions.php:92
+#: admin/admin-functions.php:93 admin/admin-functions.php:94
+#: includes/classes/VC/class-zhanot-vc-posts.php:27 zhanot.php:65
+msgid "Zhanot"
+msgstr "ژانوت"
+
+#: admin/admin-functions.php:95 admin/admin-functions.php:97
+msgid "New Notification"
+msgstr "اعلان جدید"
+
+#: admin/admin-functions.php:96
+msgid "Add new notification"
+msgstr "افزودن اعلان جدید"
+
+#: admin/admin-functions.php:98 includes/classes/widgets/dashboard.php:25
+msgid "Edit Notification"
+msgstr "ویرایش اعلان"
+
+#: admin/admin-functions.php:99
+msgid "View Notification"
+msgstr "مشاهده اعلان"
+
+#: admin/admin-functions.php:100
+msgid "All Notifications"
+msgstr "همه اعلان ها"
+
+#: admin/admin-functions.php:101
+msgid "Search Notifications"
+msgstr "جستجوی اعلان ها"
+
+#: admin/admin-functions.php:102
+msgid "Parent Notification"
+msgstr "والد اعلان ها"
+
+#: admin/admin-functions.php:103
+msgid "Not Found Notifications!"
+msgstr "اعلانی یافت نشد!"
+
+#: admin/admin-functions.php:104
+msgid "No notification found in trash"
+msgstr "اعلانی در زباله دان یافت نشد"
+
+#: admin/admin-functions.php:108
+msgid "Notifications"
+msgstr "اعلان ها"
+
+#: admin/admin-functions.php:134
+msgid "Notification Type"
+msgstr "نوع اعلان"
+
+#: admin/admin-functions.php:148
+msgid "Auto Show"
+msgstr "نمایش خودکار"
+
+#: admin/admin-menu.php:12 admin/admin-menu.php:13
+msgid "settings"
+msgstr "تنظیمات"
+
+#: admin/admin-menu.php:26 includes/classes/widgets/dashboard.php:11
+msgid "Zhanot Notifications"
+msgstr "اعلانات ژانوت"
+
+#: admin/admin-menu.php:35
+msgid "Zhanot Notifications Settings"
+msgstr "تنظیمات اعلان های ژانوت"
+
+#: admin/admin-menu.php:50
+msgid "General"
+msgstr "همگانی"
+
+#: admin/admin-menu.php:51
+msgid "Display Mode"
+msgstr "حالت نمایش"
+
+#: admin/admin-menu.php:52
+msgid "Help"
+msgstr "راهنمایی"
+
+#: admin/license.php:97 admin/license.php:277 admin/license.php:296
+#: admin/license.php:312
+msgid "Register version"
+msgstr "ثبت لایسنس"
+
+#: admin/license.php:99
+msgid "Orginal Version"
+msgstr "نسخه اورجینال"
+
+#: admin/license.php:279
+msgid ""
+"You already register your license key. to re validate it, you can use this "
+"form."
+msgstr ""
+"شما این لایسنس را ثبت کرده اید. برای تغییر یا تأیید مجدد آن، می توانید از "
+"این فرم استفاده کنید."
+
+#: admin/license.php:281
+msgid "Your current license:"
+msgstr "لایسنس فعلی :"
+
+#: admin/license.php:291
+msgid "Revalidate"
+msgstr "تایید مجدد"
+
+#: admin/license.php:292
+msgid "Delete and submit another license"
+msgstr "حذف و ثبت لایسنس جدید"
+
+#: admin/license.php:295
+msgid "New license key"
+msgstr "لایسنس جدید"
+
+#: admin/license.php:298 admin/license.php:303 admin/license.php:314
+msgid "Please wait..."
+msgstr "لطفا صبر کنید..."
+
+#: admin/license.php:309
+msgid "Please activate plugin with your license key to all features work."
+msgstr "برای فعال سازی افزونه اعلانات ژانوت لایسنس خود را وارد نمائید."
+
+#: admin/license.php:311
+msgid "License key"
+msgstr "کلید فعالسازی"
+
+#: admin/license.php:343 admin/license.php:375
+msgid "Something goes wrong please try again."
+msgstr "چیزی اشتباه است لطفا دوباره امتحان کنید."
+
+#: admin/license.php:403 admin/license.php:468
+msgid "Please insert your license code"
+msgstr "لطفا لایسنس خود را وارد کنید"
+
+#: admin/license.php:416
+msgid "License code is valid."
+msgstr "لایسنس وارد شده معتبر می باشد."
+
+#: admin/license.php:420 admin/license.php:481
+msgid "Thanks! Your license activated successfully."
+msgstr "با تشکر! لایسنس شما برای این وبسایت ثبت و فعال شد."
+
+#: admin/license.php:447
+#, php-format
+msgid "To activating your %s please insert you license key"
+msgstr "برای فعالسازی %s لایسنس خود را ثبت کنید"
+
+#: admin/license.php:448
+msgid "Register Now"
+msgstr "ثبت لایسنس"
+
+#: admin/license.php:454
+#, php-format
+msgid "There is something wrong with your %s license. please check it."
+msgstr ""
+"به نظر می رسد لایسنس %s اشتباه است . لطفا لایسنس را بررسی و مجدد ثبت کنید."
+
+#: admin/license.php:455
+msgid "Check Now"
+msgstr "بررسی مجدد"
+
+#: core.php:31 includes/metas/panel.php:280 includes/metas/panel.php:350
+#: includes/metas/panel.php:373 includes/metas/panel.php:458
+#: includes/metas/panel.php:460
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: core.php:31
+msgid "Click to select options ..."
+msgstr "برای انتخاب گزینه کلیک کنید..."
+
+#: core.php:166
+msgid "Create"
+msgstr "ایجاد"
+
+#: core.php:169
+msgid "Notification update."
+msgstr "اعلان با موفقیت به روز رسانی  شد."
+
+#: core.php:172
+msgid "Notification published."
+msgstr "اعلان جدید ایجاد شد."
+
+#: includes/TMCE/TinyMce.php:26
+#: includes/classes/widgets/class-zhanot-show-posts-widget.php:61
+msgid "Select Notification"
+msgstr "انتخاب اعلان"
+
+#: includes/classes/VC/class-zhanot-vc-posts.php:24
+#: includes/classes/elementor/class-zhanot-elementor-base.php:40
+msgid "Zhanot Notification"
+msgstr "اعلان های ژانوت"
+
+#: includes/classes/VC/class-zhanot-vc-posts.php:26
+msgid "Add notifications"
+msgstr "افزودن اعلان"
+
+#: includes/classes/VC/class-zhanot-vc-posts.php:32
+msgid "Notification ID"
+msgstr "آی دی اعلان"
+
+#: includes/classes/class-zhanot-functions.php:24
+#: includes/classes/class-zhanot-functions.php:38
+msgid "Settings saved successfully."
+msgstr "تنظیمات با موفقیت ذخیره شد."
+
+#: includes/classes/class-zhanot-post-publish.php:43
+msgid "Notification Expire"
+msgstr "انقضای اعلان"
+
+#: includes/classes/class-zhanot-post-publish.php:60
+msgid "Enable Post Expiration"
+msgstr "فعال سازی"
+
+#: includes/classes/class-zhanot-post-publish.php:64
+msgid "Expire Date"
+msgstr "تاریخ و زمان"
+
+#: includes/classes/class-zhanot-post-publish.php:68
+msgid "Hour(UTC)"
+msgstr "ساعت (UTC)"
+
+#: includes/classes/class-zhanot-post-publish.php:89
+msgid "Minute"
+msgstr "دقیقه"
+
+#: includes/classes/class-zhanot-post-publish.php:113
+msgid "Event"
+msgstr "رویداد"
+
+#: includes/classes/class-zhanot-post-publish.php:116
+#: includes/metas/panel.php:281 includes/metas/panel.php:351
+#: includes/metas/panel.php:374 includes/metas/panel.php:461
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/classes/class-zhanot-post-publish.php:118
+msgid "Trash"
+msgstr "زباله دان"
+
+#: includes/classes/class-zhanot-post-publish.php:120
+msgid "Draft"
+msgstr "پیش نویس"
+
+#: includes/classes/elementor/class-zhanot-elementor-base.php:130
+#: includes/metas/panel.php:488 includes/metas/panel.php:515
+msgid "Content"
+msgstr "محتوا"
+
+#: includes/classes/elementor/class-zhanot-elementor-base.php:137
+msgid "Enter Shortcode ID"
+msgstr "آی دی اعلان را وارد کنید"
+
+#: includes/classes/view/class-zhanot-template-creator.php:235
+msgid "Discount"
+msgstr "تخفیف"
+
+#: includes/classes/view/class-zhanot-template-creator.php:277
+msgid "Days"
+msgstr "روز"
+
+#: includes/classes/view/class-zhanot-template-creator.php:282
+msgid "Hours"
+msgstr "ساعت"
+
+#: includes/classes/view/class-zhanot-template-creator.php:287
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: includes/classes/view/class-zhanot-template-creator.php:292
+msgid "Seconds"
+msgstr "ثانیه"
+
+#: includes/classes/widgets/class-zhanot-show-posts-widget.php:15
+msgid "Zhanot Widget"
+msgstr "ابزارک ژانوت"
+
+#: includes/classes/widgets/class-zhanot-show-posts-widget.php:16
+msgid "Zhanot notifications bar in Widgets"
+msgstr "نمایش اعلان های ژانوت در ابزارک ها"
+
+#: includes/classes/widgets/dashboard.php:29
+msgid "End"
+msgstr "پایان"
+
+#: includes/classes/widgets/dashboard.php:35
+msgid "Active notification not found."
+msgstr "اعلان فعال یافت نشد."
+
+#: includes/functions.php:172 includes/metas/panel.php:77
+#: includes/metas/panel.php:334
+msgid "Text with button"
+msgstr "متن با دکمه"
+
+#: includes/functions.php:173 includes/metas/panel.php:80
+#: includes/metas/panel.php:346
+msgid "Product Introduction"
+msgstr "معرفی محصول"
+
+#: includes/functions.php:174 includes/metas/panel.php:83
+#: includes/metas/panel.php:369
+msgid "Post Introduction"
+msgstr "معرفی مطلب"
+
+#: includes/functions.php:175 includes/metas/panel.php:86
+#: includes/metas/panel.php:386
+msgid "Timer"
+msgstr "تایمر"
+
+#: includes/functions.php:176 includes/metas/panel.php:89
+#: includes/metas/panel.php:427
+msgid "Social Network"
+msgstr "شبکه های اجتماعی"
+
+#: includes/functions.php:177 includes/metas/panel.php:92
+#: includes/metas/panel.php:444
+msgid "Contact Info"
+msgstr "اطلاعات ارتباطی"
+
+#: includes/functions.php:178 includes/metas/panel.php:95
+#: includes/metas/panel.php:456
+msgid "Image with Url"
+msgstr "تصویر با لینک"
+
+#: includes/functions.php:179 includes/metas/panel.php:98
+#: includes/metas/panel.php:470
+msgid "Html Content"
+msgstr "محتوای اچ تی ام ال"
+
+#: includes/functions.php:180 includes/metas/panel.php:101
+#: includes/metas/panel.php:477
+msgid "Random Text"
+msgstr "متن های تصادفی"
+
+#: includes/metas/panel.php:57
+msgid "Alert number"
+msgstr "اعلان شماره"
+
+#: includes/metas/panel.php:119
+msgid "User settings"
+msgstr "تنظیمات کاربری"
+
+#: includes/metas/panel.php:122
+msgid "Alert settings"
+msgstr "تنظیمات اعلان"
+
+#: includes/metas/panel.php:129
+msgid "View once for each visitor?"
+msgstr "نمایش فقط یکبار برای هر کاربر/ بازدیدکننده؟"
+
+#: includes/metas/panel.php:130
+msgid ""
+"This event will be activated when the visitor click on the button to close "
+"the notification"
+msgstr ""
+"این رویداد زمانی فعال خواهد شد که بازدید کننده بر روی دکمه بستن اطلاعیه کلیک "
+"کنید"
+
+#: includes/metas/panel.php:134
+msgid "Hide logged in users"
+msgstr "عدم نمایش به کاربران وارد شده"
+
+#: includes/metas/panel.php:138
+msgid "Display for specific user role"
+msgstr "نمایش به کاربران وارد شده"
+
+#: includes/metas/panel.php:141
+msgid "Select User Roles"
+msgstr "انتخاب نقش های کاربری"
+
+#: includes/metas/panel.php:163
+msgid "If blank, it will be displayed to all users and website visitors"
+msgstr ""
+"در صورت خالی بودن برای همه کاربران و بازدیدکنندگان وب سایت نمایش داده می شود"
+
+#: includes/metas/panel.php:173
+msgid "Show"
+msgstr "نمایش"
+
+#: includes/metas/panel.php:177
+msgid "Automatically display top of website?"
+msgstr "نمایش خودکار بالای وبسایت؟"
+
+#: includes/metas/panel.php:181
+msgid "Widescreen display box content?"
+msgstr "نمایش بصورت عریض؟"
+
+#: includes/metas/panel.php:185
+msgid "Bottom sticky when scrolling"
+msgstr "چسبنده به پایین هنگام اسکرول"
+
+#: includes/metas/panel.php:189
+msgid "Open link on new page?"
+msgstr "بازشدن لینک دکمه در صفحه جدید؟"
+
+#: includes/metas/panel.php:193
+msgid "Hidden Close Button?"
+msgstr "عدم نمایش دکمه بستن؟"
+
+#: includes/metas/panel.php:196
+msgid "Show only on"
+msgstr "نمایش فقط در"
+
+#: includes/metas/panel.php:198
+msgid "All"
+msgstr "همه نمایشگرها"
+
+#: includes/metas/panel.php:199
+msgid "Desktop"
+msgstr "دسکتاپ"
+
+#: includes/metas/panel.php:200
+msgid "Mobile"
+msgstr "موبایل"
+
+#: includes/metas/panel.php:205
+msgid "Show in specific page"
+msgstr "نمایش در صفحات خاص"
+
+#: includes/metas/panel.php:222
+msgid "Style"
+msgstr "ظاهر"
+
+#: includes/metas/panel.php:225
+msgid "Notification Background"
+msgstr "پس زمینه اعلان"
+
+#: includes/metas/panel.php:284
+msgid "Background color notification"
+msgstr "رنگ پس زمینه اعلان"
+
+#: includes/metas/panel.php:288
+msgid "Background color notification content"
+msgstr "رنگ پس زمینه محتوای اعلان"
+
+#: includes/metas/panel.php:293
+msgid "Background color opacity notification content (0 to 99)"
+msgstr "شفافیت پس زمینه محتوای اعلان (0 تا 99)"
+
+#: includes/metas/panel.php:298
+msgid "Text color notification"
+msgstr "رنگ متن اعلان"
+
+#: includes/metas/panel.php:302
+msgid "Notification Font size"
+msgstr "اندازه فونت اعلان"
+
+#: includes/metas/panel.php:306
+msgid "Button Color"
+msgstr "رنگ پس زمینه دکمه"
+
+#: includes/metas/panel.php:310
+msgid "Text Button Color"
+msgstr "رنگ متن دکمه"
+
+#: includes/metas/panel.php:314
+msgid "Notification Margin (pixel)"
+msgstr "فاصله اعلان (پیکسل)"
+
+#: includes/metas/panel.php:320
+msgid "Top"
+msgstr "بالا"
+
+#: includes/metas/panel.php:321
+msgid "Right"
+msgstr "راست"
+
+#: includes/metas/panel.php:322
+msgid "Bottom"
+msgstr "پایین"
+
+#: includes/metas/panel.php:323
+msgid "Left"
+msgstr "چپ"
+
+#: includes/metas/panel.php:336 includes/metas/panel.php:353
+#: includes/metas/panel.php:376 includes/metas/panel.php:400
+#: includes/metas/panel.php:429 includes/metas/panel.php:446
+msgid "Text notification"
+msgstr "متن اعلان"
+
+#: includes/metas/panel.php:339 includes/metas/panel.php:362
+#: includes/metas/panel.php:379 includes/metas/panel.php:420
+msgid "Button Text notification"
+msgstr "متن دکمه اعلان"
+
+#: includes/metas/panel.php:342 includes/metas/panel.php:365
+#: includes/metas/panel.php:382 includes/metas/panel.php:423
+msgid "Button Url notification"
+msgstr "لینک دکمه"
+
+#: includes/metas/panel.php:348
+msgid "Product Image"
+msgstr "تصویر محصول"
+
+#: includes/metas/panel.php:356
+msgid "Discount percent"
+msgstr "درصد تخفیف ، مثال : 50% یا 50 درصد"
+
+#: includes/metas/panel.php:359
+msgid "Product price"
+msgstr "قیمت محصول"
+
+#: includes/metas/panel.php:371
+msgid "Post Image"
+msgstr "تصویر مطلب"
+
+#: includes/metas/panel.php:388
+msgid "Timer Background color"
+msgstr "رنگ پس زمینه شمارنده"
+
+#: includes/metas/panel.php:392
+msgid "Timer Text color"
+msgstr "رنگ متن شمارنده"
+
+#: includes/metas/panel.php:396
+msgid "Timer Shadow color"
+msgstr "رنگ سایه شمارنده"
+
+#: includes/metas/panel.php:403
+msgid "Timer end Date"
+msgstr "تاریخ پایان تایمر"
+
+#: includes/metas/panel.php:406
+msgid "Time"
+msgstr "ساعت"
+
+#: includes/metas/panel.php:409
+msgid "Post meridian"
+msgstr "بعد  از ظهر"
+
+#: includes/metas/panel.php:412
+msgid "Ante meridiem"
+msgstr "قبل از ظهر"
+
+#: includes/metas/panel.php:417
+msgid "Timer end Text"
+msgstr "متن پایان تایمر (کوتاه)"
+
+#: includes/metas/panel.php:432
+msgid "Google plus"
+msgstr "گوگل پلاس"
+
+#: includes/metas/panel.php:433
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: includes/metas/panel.php:434
+msgid "Twitter"
+msgstr "توییتر"
+
+#: includes/metas/panel.php:435
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: includes/metas/panel.php:436
+msgid "Github"
+msgstr "گیت هاب"
+
+#: includes/metas/panel.php:437
+msgid "Telegram"
+msgstr "تلگرام"
+
+#: includes/metas/panel.php:438
+msgid "WhatsApp phone number"
+msgstr "شماره شما در واتس اپ"
+
+#: includes/metas/panel.php:439
+msgid "Linkedin"
+msgstr "لینکداین"
+
+#: includes/metas/panel.php:440
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: includes/metas/panel.php:449
+msgid "Phone number"
+msgstr "شماره تماس"
+
+#: includes/metas/panel.php:452
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+#: includes/metas/panel.php:463
+msgid "Image alternate"
+msgstr "متن جایگزین تصویر (مناسب برای سئو)"
+
+#: includes/metas/panel.php:466
+msgid "Url"
+msgstr "لینک دلخواه"
+
+#: includes/metas/panel.php:472
+msgid "Content notification"
+msgstr "محتوای اعلان"
+
+#: includes/metas/panel.php:503
+msgid "Add New Content"
+msgstr "افزودن محتوای جدید"
+
+#: includes/settings/display.php:15
+msgid "Mobile mode"
+msgstr "وضعیت حالت موبایل"
+
+#: includes/settings/display.php:23
+msgid "Background color"
+msgstr "رنگ پس زمینه دکمه"
+
+#: includes/settings/display.php:31
+msgid "Hidden counter"
+msgstr "عدم نمایش شمارنده"
+
+#: includes/settings/display.php:41 includes/settings/general.php:42
+msgid "Save changes"
+msgstr "ذخیره تغییرات"
+
+#: includes/settings/general.php:15
+msgid "Custom CSS"
+msgstr "استایل سفارشی"
+
+#: includes/settings/general.php:23
+msgid "Custom Js"
+msgstr "جاوااسکریپت سفارشی"
+
+#: includes/settings/general.php:31
+msgid "Load Css Show in the content"
+msgstr "فراخوانی استایل نمایش در مطالب"
+
+#: includes/settings/general.php:35
+msgid "Enable or disable"
+msgstr "فعال یا غیرفعالسازی"
+
+#: includes/settings/help.php:10
+msgid "Zhanot Help"
+msgstr "راهنمای ژانوت"
+
+#: includes/settings/help.php:11
+msgid ""
+"Zhanot advanced plug-in provides features to easily get professional prompt "
+"and responsive to any website to display"
+msgstr ""
+"افزونه پیشرفته ژانوت امکاناتی را در اختیارتان قرار می دهد تا بتوانید به "
+"راحتی اعلان های حرفه ای و واکنشگرا را در هر جای وبسایت نمایش دهید"
+
+#: includes/settings/help.php:12
+msgid ""
+"There are several ways to display the notification at the desired location, "
+"as listed below"
+msgstr ""
+"جهت نمایش اعلان مورد نظر در مکان دلخواه چند روش وجود دارد که در زیر ذکر شده"
+
+#: includes/settings/help.php:14
+msgid "shortcode"
+msgstr "کد کوتاه"
+
+#: includes/settings/help.php:15
+msgid "The button in the classic WordPress editor"
+msgstr "قابلیت نمایش درون مطالب و صفحات از طریق دکمه موجود در ویرایشگر کلاسیک"
+
+#: includes/settings/help.php:16
+msgid "PHP code to display anywhere on the website"
+msgstr "نمایش از طریق کد PHP"
+
+#: includes/settings/help.php:17
+msgid "View by Page Builder Visual Composer"
+msgstr "نمایش از طریق صفحه ساز ویژوال کامپوزر"
+
+#: includes/settings/help.php:18
+msgid "Displayed by Widgets"
+msgstr "نمایش توسط ابزارک ها"
+
+#: includes/settings/help.php:19
+msgid "Show automatically on top of website"
+msgstr "قابلیت نمایش بصورت خودکار بالای وبسایت"
+
+#: includes/settings/help.php:20
+msgid "To display in the Gothenburg editor, you must use the block shortcode"
+msgstr "جهت نمایش از طریق ویرایش گوتنبرگ باید از بلاک شورت کد استفاده نمائید"
+
+#: includes/settings/help.php:22
+msgid ""
+"In automatic status notifications, you will only be able to add up to 10 "
+"cursor to the top of the site."
+msgstr ""
+"در وضعیت نمایش خودکار اعلان ، شما فقط قادر خواهید بود حداکثر 10 اعلان را به "
+"بالای سایت اضافه کنید."
+
+#: includes/settings/help.php:23
+msgid ""
+"Shortcodes and PHP code when making a notification in the left sidebar you "
+"see."
+msgstr ""
+"کد کوتاه و کد پی اچ پی را در هنگام ساخت اعلان در سایدبار سمت چپ صفحه مشاهده "
+"خواهید کرد."
+
+#: includes/settings/help.php:24
+msgid "To disable the prompt to just put it in the draft."
+msgstr ""
+"برای غیرفعالسازی اعلان مورد نظر کافیست آن را در وضعیت پیش نویس قرار دهید."
+
+#: includes/settings/help.php:26
+msgid ""
+"To display a few timers on a page, you must create the timer for the desired "
+"number"
+msgstr ""
+"برای نمایش چند تایمر در یک صفحه باید به تعداد مورد نظر تایمر ایجاد کنید"
+
+#: includes/settings/help.php:29
+msgid ""
+"If you have enabled the auto-view for a notification, note that you should "
+"not use that announcement on a page or post and elsewhere, so it's best to "
+"display the notifications as many as you like."
+msgstr ""
+"در صورتی که نمایش خودکار را برای یک اعلان فعال کرده اید به این مورد توجه "
+"داشته باشید که نباید آن اعلان را در صفحه یا مطلب و در مکان دیگری استفاده "
+"کرده باشید پس بهتر است برای نمایش اعلان ها را به تعداد دلخواه ایجاد کنید."
+
+#: includes/settings/help.php:32
+msgid "All rights reserved for Zaino."
+msgstr "تمام حقوق این محصول برای زاینو محفوظ می باشد."
+
+#: includes/settings/help.php:33
+msgid "Zhaket"
+msgstr "ژاکت"
+
+#: includes/settings/help.php:34
+msgid "Zaino"
+msgstr "زاینو"
+
+#: zhanot.php:80 zhanot.php:83
+msgid "Please enter the license key of the ZHANOT plugin."
+msgstr "لایسنس افزونه ژانوت را جهت فعالسازی امکانات وارد کنید."
+
+#: zhanot.php:89
+msgid "Please purchase original version of Zhanot"
+msgstr "لطفا نسخه  اصلی ژانوت رو خریداری کنید"
+
+#. Plugin Name of the plugin/theme
+msgid "Zhanot | Advanced Notification Bar WordPress"
+msgstr "ژانوت | نوار اعلانات پیشرفته وردپرس"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://zaino.ir"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "allowed to display notifications advanced anywhere website"
+msgstr ""
+"ژانوت این امکان را فراهم میکند تا نوار اعلانات پیشرفته را در هرجای وبسایت "
+"نمایش دهید"
+
+#. Author of the plugin/theme
+msgid "Alireza Dehkar"
+msgstr "علیرضا دهکار"
+
+#~ msgid "Notifications Category"
+#~ msgstr "دسته بندی اعلان ها"
+
+#~ msgid "Search for notifications category"
+#~ msgstr "جستجو در دسته بندی اعلان ها"
+
+#~ msgid "All categories of notifications"
+#~ msgstr "همه دسته بندی اعلان ها"
+
+#~ msgid "Category parent notification"
+#~ msgstr "دسته بندی والد اعلان"
+
+#~ msgid "Category parent notification:"
+#~ msgstr "دسته بندی والد اعلان:"
+
+#~ msgid "Edit Category notification"
+#~ msgstr "ویرایش دسته بندی اعلان"
+
+#~ msgid "Update Category notification"
+#~ msgstr "بروزرسانی دسته بندی اعلان"
+
+#~ msgid "Add new Category notification"
+#~ msgstr "افزودن دسته بندی جدید اعلان"
+
+#~ msgid "Name new Category notification"
+#~ msgstr "نام دسته بندی جدید اعلان"
+
+#~ msgid "Not Found Category notification!"
+#~ msgstr "دسته بندی برای اعلان ها یافت نشد!"
+
+#~ msgid ""
+#~ "You are using two instances of Zhanot plugin at same time, please "
+#~ "deactive one of them."
+#~ msgstr ""
+#~ "شما در حال استفاده همزمان از دو نمونه افزونه ژانوت هستید، لطفا یکی از "
+#~ "آنها را غیرفعال کنید."
+
+#~ msgid "Check for updates"
+#~ msgstr "بررسی برای نسخه جدید"
+
+#~ msgid "View details"
+#~ msgstr "نمایش جزئیات"
+
+#~ msgid "More information about %s"
+#~ msgstr "اطلاعات بیشتر درباره %s"
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "وضعیت نامشخص بررسی بروزرسانی \"%s\""
+
+#~ msgid "There is no changelog available."
+#~ msgstr "شرحی برای تغییرات یافت نشد."
+
+#~ msgid "Example"
+#~ msgstr "مثال"
+
+#~ msgid "Autoload"
+#~ msgstr "نمایش خودکار"
+
+#~ msgid "Enable"
+#~ msgstr "فعال"
+
+#~ msgid "Disable"
+#~ msgstr "غیرفعال"
+
+#~ msgid "Expire"
+#~ msgstr "انقضا"
+
+#~ msgid "Zhanot Post Expire Date"
+#~ msgstr "انقضای اعلان"
+
+#~ msgid "%s notification moved to the Trash."
+#~ msgstr "%s اعلان به زباله دان منتقل شد."
+
+#~ msgid "Color & Font"
+#~ msgstr "رنگ و فونت"
+
+#~ msgid "Zhanot | WordPress Advanced Promoters Bar"
+#~ msgstr "Zhanot | WordPress Advanced Promoters Bar"
+
+#~ msgid "Text with Button"
+#~ msgstr "متن با دکمه"
+
+#~ msgid "Product introduction"
+#~ msgstr "معرفی محصول"
+
+#~ msgid "<strong>Zhanot Notice:</strong> wp jalali plugin is no installed!"
+#~ msgstr "<strong>پیام ژانوت : </strong> افزونه wp jalali را نصب و فعال کنید"
+
+#~ msgid "One Content"
+#~ msgstr "محتوای اول"
+
+#~ msgid "Two Content"
+#~ msgstr "محتوا دوم"
+
+#~ msgid "Three Content"
+#~ msgstr "محتوای سوم"
+
+#~ msgid "Four Content"
+#~ msgstr "محتوا چهارم"
+
+#~ msgid "Five Content"
+#~ msgstr "محتوای پنجم"
+
+#~ msgctxt "the plugin title"
+#~ msgid "The %s plugin is up to date."
+#~ msgstr "افزونه %s بروزرسانی شده است."
+
+#~ msgctxt "the plugin title"
+#~ msgid "A new version of the %s plugin is available."
+#~ msgstr "نسخه جدید برای افزونه %s در دسترس است."
+
+#~ msgctxt "the plugin title"
+#~ msgid "Could not determine if updates are available for %s."
+#~ msgstr "نمی توان بررسی کرد که آیا بروزرسانی برای %s در دسترس هست یا ن ."
+
+#~ msgid "Show zhanot notifications by Widgets"
+#~ msgstr "نمایش اعلان های ژانوت در ابزارک ها"
+
+#~ msgid "Zhanot widget"
+#~ msgstr "ابزارک ژانوت"
+
+#~ msgid "Zhanot Notification ID"
+#~ msgstr "آی دی اعلان ژانوت"
+
+#~ msgid "User roles to"
+#~ msgstr "نمایش برای نقش کاربری خاص"
+
+#~ msgid "Enter license key of the <strong>ZHANOT</strong> plugin"
+#~ msgstr ""
+#~ "لایسنس افزونه <strong>ژانوت</strong> را جهت فعالسازی امکانات وارد کنید."
+
+#~ msgid "This plugin is up to date."
+#~ msgstr "در حال استفاده از آخرین نسخه ژانوت هستید."
+
+#~ msgid "A new version of this plugin is available."
+#~ msgstr ""
+#~ "بروزرسانی جدید برای ژانوت در دسترسی می باشد، به صفحه بروزرسانی ها مراجعه "
+#~ "کنید."
+
+#~ msgid "Add Zhanot notification"
+#~ msgstr "افزودن اعلان ژانوت"
+
+#~ msgid "Notification Settings"
+#~ msgstr "تنظیمات اعلان"
+
+#~ msgid "All Notification"
+#~ msgstr "همه اعلان ها"
+
+#~ msgid ""
+#~ "Shortcodes and PHP code when making a notification in the left sidebar "
+#~ "you'll see."
+#~ msgstr ""
+#~ "کد کوتاه و کد پی اچ پی را در هنگام ساخت اعلان در سایدبار سمت چپ صفحه "
+#~ "مشاهده خواهید کرد."
+
+#~ msgid ""
+#~ "Zhanvt advanced plug-in provides features to easily get professional "
+#~ "prompt and responsive to any website to display"
+#~ msgstr ""
+#~ "افزونه پیشرفته ژانوت امکاناتی را در اختیارتان قرار می دهد تا بتوانید به "
+#~ "راحتی اعلان های حرفه ای و واکنشگرا را در هر جای وبسایت نمایش دهید"
