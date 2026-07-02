@@ -5,11 +5,11 @@
 ### Create, manage, and display fully responsive, customizable notification bars anywhere on your WordPress site — with unlimited notices, scheduling, and shortcode support.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/zhanot-wp-plugin?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/zhanot-wp-plugin?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/zhanot-wp-plugin?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/zhanot-wp-plugin?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/zhanot-wp-plugin?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/ZhanotBar?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/ZhanotBar?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/ZhanotBar?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/ZhanotBar?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/ZhanotBar?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -84,7 +84,7 @@ Designed for **marketers, store owners, and WordPress agencies**, Zhanot turns s
 4. **Activate** the plugin from the Plugins menu.
 
 ```bash
-git clone https://github.com/morpheusadam/zhanot-wp-plugin.git
+git clone https://github.com/morpheusadam/ZhanotBar.git
 ```
 
 ---
@@ -124,7 +124,7 @@ zhanot-wp-plugin/
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/zhanot-wp-plugin/issues) or submit a pull request with new features, builder integrations, translations, or fixes.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/ZhanotBar/issues) or submit a pull request with new features, builder integrations, translations, or fixes.
 
 ## 📜 License
 
@@ -153,8 +153,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/zhanot-wp-plugin&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/zhanot-wp-plugin&type=Date" alt="zhanot-wp-plugin — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/ZhanotBar&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/ZhanotBar&type=Date" alt="zhanot-wp-plugin — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
