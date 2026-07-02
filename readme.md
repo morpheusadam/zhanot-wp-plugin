@@ -147,3 +147,20 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 ⭐ **If Zhanot helped you ship better announcements, consider giving it a star!** ⭐
 
 </div>
+
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#morpheusadam/zhanot-wp-plugin&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/zhanot-wp-plugin&type=Date" alt="zhanot-wp-plugin — Star History Chart" width="70%" />
+</a>
+
+<div align="center">
+
+### If this project helps you, please give it a ⭐
+
+A star helps other developers discover **zhanot-wp-plugin** and supports continued development.
+
+</div>
