@@ -1,7 +1,5 @@
 <div align="center">
-
-# 📢 Zhanot — Advanced WordPress Notification Bar
-
+# 📢 Zhanot Bar — Advanced WordPress Notification Bar
 ### Create, manage, and display fully responsive, customizable notification bars anywhere on your WordPress site — with unlimited notices, scheduling, and shortcode support.
 
 <p>
